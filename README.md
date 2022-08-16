@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>INFO | Liceu</title>
-    <link rel="stylesheet" href="css.css" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 <center>
@@ -95,7 +95,7 @@ viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
         
     </div>
 <br><br><br><br><br><br><br><br>
-<script type="text/javascript">
+<script type="script/javascript">
     var counter = 1
     setInterval(function(){
         document.getElementById('radio' + counter).checked = true;
